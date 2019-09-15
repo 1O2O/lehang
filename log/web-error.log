@@ -1,0 +1,8 @@
+[2m2019-09-13 19:45:49.724[0;39m [31mERROR[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-1][0;39m [36mmyLogger[0;39m [2m:[0;39m error测试
+[2m2019-09-13 19:48:34.962[0;39m [31mERROR[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-4][0;39m [36mmyLogger[0;39m [2m:[0;39m error测试
+2019-09-13 19:49:51,636 ERROR [http-nio-8081-exec-1] error测试 (myLogger:TestController.java:23) 
+2019-09-14 11:40:28,645 ERROR [http-nio-8081-exec-1] ParamException code:300,msg:异常参数 (myLogger:ExceptionHandler.java:24) 
+2019-09-14 11:42:32,068 ERROR [http-nio-8081-exec-1] ParamException code:300,msg:异常参数 (myLogger:ExceptionHandler.java:24) 
+2019-09-14 11:42:35,508 ERROR [http-nio-8081-exec-5] ParamException code:300,msg:异常参数 (myLogger:ExceptionHandler.java:24) 

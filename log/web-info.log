@@ -1,0 +1,155 @@
+[2m2019-09-13 19:45:41.864[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mc.e.d.DemoApplication[0;39m [2m:[0;39m Starting DemoApplication on LAPTOP-F0F3FEUE with PID 12580 (D:\IntelliJIDEA\work\demo\target\classes started by zz in D:\IntelliJIDEA\work\demo)
+[2m2019-09-13 19:45:41.864[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mc.e.d.DemoApplication[0;39m [2m:[0;39m No active profile set, falling back to default profiles: default
+[2m2019-09-13 19:45:42.179[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Bootstrapping Spring Data repositories in DEFAULT mode.
+[2m2019-09-13 19:45:42.205[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+[2m2019-09-13 19:45:42.384[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker[0;39m [2m:[0;39m Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$61e5499a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[2m2019-09-13 19:45:42.528[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.b.w.e.t.TomcatWebServer[0;39m [2m:[0;39m Tomcat initialized with port(s): 8081 (http)
+[2m2019-09-13 19:45:42.536[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.a.c.h.Http11NioProtocol[0;39m [2m:[0;39m Initializing ProtocolHandler ["http-nio-8081"]
+[2m2019-09-13 19:45:42.542[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.a.c.c.StandardService[0;39m [2m:[0;39m Starting service [Tomcat]
+[2m2019-09-13 19:45:42.542[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.a.c.c.StandardEngine[0;39m [2m:[0;39m Starting Servlet engine: [Apache Tomcat/9.0.22]
+[2m2019-09-13 19:45:42.638[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.a.c.c.C.[.[.[/demo][0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+[2m2019-09-13 19:45:42.638[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.w.c.ContextLoader[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 754 ms
+[2m2019-09-13 19:45:42.720[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mc.z.h.HikariDataSource[0;39m [2m:[0;39m HikariPool-1 - Starting...
+[2m2019-09-13 19:45:42.827[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mc.z.h.HikariDataSource[0;39m [2m:[0;39m HikariPool-1 - Start completed.
+[2m2019-09-13 19:45:42.890[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.h.Version[0;39m [2m:[0;39m HHH000412: Hibernate Core {5.3.10.Final}
+[2m2019-09-13 19:45:42.891[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.h.c.Environment[0;39m [2m:[0;39m HHH000206: hibernate.properties not found
+[2m2019-09-13 19:45:42.964[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.h.a.c.Version[0;39m [2m:[0;39m HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+[2m2019-09-13 19:45:43.043[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.h.d.Dialect[0;39m [2m:[0;39m HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[2m2019-09-13 19:45:43.161[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2m2019-09-13 19:45:43.375[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.s.c.ThreadPoolTaskExecutor[0;39m [2m:[0;39m Initializing ExecutorService 'applicationTaskExecutor'
+[2m2019-09-13 19:45:43.507[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.a.c.h.Http11NioProtocol[0;39m [2m:[0;39m Starting ProtocolHandler ["http-nio-8081"]
+[2m2019-09-13 19:45:43.521[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mo.s.b.w.e.t.TomcatWebServer[0;39m [2m:[0;39m Tomcat started on port(s): 8081 (http) with context path '/demo'
+[2m2019-09-13 19:45:43.522[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[main][0;39m [36mc.e.d.DemoApplication[0;39m [2m:[0;39m Started DemoApplication in 1.925 seconds (JVM running for 2.763)
+[2m2019-09-13 19:45:49.632[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-1][0;39m [36mo.a.c.c.C.[.[.[/demo][0;39m [2m:[0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2m2019-09-13 19:45:49.632[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-1][0;39m [36mo.s.w.s.DispatcherServlet[0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2019-09-13 19:45:49.636[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-1][0;39m [36mo.s.w.s.DispatcherServlet[0;39m [2m:[0;39m Completed initialization in 4 ms
+[2m2019-09-13 19:45:49.724[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-1][0;39m [36mmyLogger[0;39m [2m:[0;39m info测试
+[2m2019-09-13 19:48:34.962[0;39m [32m INFO[0;39m [35m12580[0;39m
+            [2m---[0;39m [2m[http-nio-8081-exec-4][0;39m [36mmyLogger[0;39m [2m:[0;39m info测试
+2019-09-13 19:49:39,668 INFO  [main] Starting DemoApplication on LAPTOP-F0F3FEUE with PID 10120 (D:\IntelliJIDEA\work\demo\target\classes started by zz in D:\IntelliJIDEA\work\demo) (com.example.demo.DemoApplication:StartupInfoLogger.java:50) 
+2019-09-13 19:49:39,669 INFO  [main] No active profile set, falling back to default profiles: default (com.example.demo.DemoApplication:SpringApplication.java:647) 
+2019-09-13 19:49:40,180 INFO  [main] Bootstrapping Spring Data repositories in DEFAULT mode. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:126) 
+2019-09-13 19:49:40,194 INFO  [main] Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:182) 
+2019-09-13 19:49:40,474 INFO  [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6d15c281] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) (org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:PostProcessorRegistrationDelegate.java:330) 
+2019-09-13 19:49:40,705 INFO  [main] Tomcat initialized with port(s): 8081 (http) (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:90) 
+2019-09-13 19:49:40,717 INFO  [main] Initializing ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-13 19:49:40,725 INFO  [main] Starting service [Tomcat] (org.apache.catalina.core.StandardService:DirectJDKLog.java:173) 
+2019-09-13 19:49:40,726 INFO  [main] Starting Servlet engine: [Apache Tomcat/9.0.22] (org.apache.catalina.core.StandardEngine:DirectJDKLog.java:173) 
+2019-09-13 19:49:40,841 INFO  [main] Initializing Spring embedded WebApplicationContext (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-13 19:49:40,842 INFO  [main] Root WebApplicationContext: initialization completed in 1143 ms (org.springframework.web.context.ContextLoader:ServletWebServerApplicationContext.java:284) 
+2019-09-13 19:49:40,976 INFO  [main] HikariPool-1 - Starting... (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:110) 
+2019-09-13 19:49:41,130 INFO  [main] HikariPool-1 - Start completed. (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:123) 
+2019-09-13 19:49:41,233 INFO  [main] HHH000412: Hibernate Core {5.3.10.Final} (org.hibernate.Version:Version.java:46) 
+2019-09-13 19:49:41,234 INFO  [main] HHH000206: hibernate.properties not found (org.hibernate.cfg.Environment:Environment.java:213) 
+2019-09-13 19:49:41,350 INFO  [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final} (org.hibernate.annotations.common.Version:JavaReflectionManager.java:49) 
+2019-09-13 19:49:41,477 INFO  [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect (org.hibernate.dialect.Dialect:Dialect.java:157) 
+2019-09-13 19:49:41,637 INFO  [main] Initialized JPA EntityManagerFactory for persistence unit 'default' (org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:AbstractEntityManagerFactoryBean.java:415) 
+2019-09-13 19:49:41,980 INFO  [main] Initializing ExecutorService 'applicationTaskExecutor' (org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:ExecutorConfigurationSupport.java:171) 
+2019-09-13 19:49:42,191 INFO  [main] Starting ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-13 19:49:42,213 INFO  [main] Tomcat started on port(s): 8081 (http) with context path '/demo' (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:202) 
+2019-09-13 19:49:42,215 INFO  [main] Started DemoApplication in 2.946 seconds (JVM running for 4.221) (com.example.demo.DemoApplication:StartupInfoLogger.java:59) 
+2019-09-13 19:49:51,503 INFO  [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet' (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-13 19:49:51,504 INFO  [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet' (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:524) 
+2019-09-13 19:49:51,510 INFO  [http-nio-8081-exec-1] Completed initialization in 6 ms (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:546) 
+2019-09-13 19:49:51,636 INFO  [http-nio-8081-exec-1] info测试 (myLogger:TestController.java:25) 
+2019-09-14 11:40:15,793 INFO  [main] Starting DemoApplication on LAPTOP-F0F3FEUE with PID 4432 (D:\IntelliJIDEA\work\demo\target\classes started by zz in D:\IntelliJIDEA\work\demo) (com.example.demo.DemoApplication:StartupInfoLogger.java:50) 
+2019-09-14 11:40:15,793 INFO  [main] No active profile set, falling back to default profiles: default (com.example.demo.DemoApplication:SpringApplication.java:647) 
+2019-09-14 11:40:16,191 INFO  [main] Bootstrapping Spring Data repositories in DEFAULT mode. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:126) 
+2019-09-14 11:40:16,203 INFO  [main] Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:182) 
+2019-09-14 11:40:16,395 INFO  [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ca3b6b10] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) (org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:PostProcessorRegistrationDelegate.java:330) 
+2019-09-14 11:40:16,572 INFO  [main] Tomcat initialized with port(s): 8081 (http) (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:90) 
+2019-09-14 11:40:16,583 INFO  [main] Initializing ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-14 11:40:16,589 INFO  [main] Starting service [Tomcat] (org.apache.catalina.core.StandardService:DirectJDKLog.java:173) 
+2019-09-14 11:40:16,590 INFO  [main] Starting Servlet engine: [Apache Tomcat/9.0.22] (org.apache.catalina.core.StandardEngine:DirectJDKLog.java:173) 
+2019-09-14 11:40:16,668 INFO  [main] Initializing Spring embedded WebApplicationContext (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-14 11:40:16,668 INFO  [main] Root WebApplicationContext: initialization completed in 850 ms (org.springframework.web.context.ContextLoader:ServletWebServerApplicationContext.java:284) 
+2019-09-14 11:40:16,760 INFO  [main] HikariPool-1 - Starting... (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:110) 
+2019-09-14 11:40:16,879 INFO  [main] HikariPool-1 - Start completed. (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:123) 
+2019-09-14 11:40:16,960 INFO  [main] HHH000412: Hibernate Core {5.3.10.Final} (org.hibernate.Version:Version.java:46) 
+2019-09-14 11:40:16,961 INFO  [main] HHH000206: hibernate.properties not found (org.hibernate.cfg.Environment:Environment.java:213) 
+2019-09-14 11:40:17,076 INFO  [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final} (org.hibernate.annotations.common.Version:JavaReflectionManager.java:49) 
+2019-09-14 11:40:17,174 INFO  [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect (org.hibernate.dialect.Dialect:Dialect.java:157) 
+2019-09-14 11:40:17,309 INFO  [main] Initialized JPA EntityManagerFactory for persistence unit 'default' (org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:AbstractEntityManagerFactoryBean.java:415) 
+2019-09-14 11:40:17,580 INFO  [main] Initializing ExecutorService 'applicationTaskExecutor' (org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:ExecutorConfigurationSupport.java:171) 
+2019-09-14 11:40:17,728 INFO  [main] Starting ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-14 11:40:17,742 INFO  [main] Tomcat started on port(s): 8081 (http) with context path '/demo' (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:202) 
+2019-09-14 11:40:17,744 INFO  [main] Started DemoApplication in 2.275 seconds (JVM running for 3.508) (com.example.demo.DemoApplication:StartupInfoLogger.java:59) 
+2019-09-14 11:40:28,534 INFO  [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet' (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-14 11:40:28,534 INFO  [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet' (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:524) 
+2019-09-14 11:40:28,540 INFO  [http-nio-8081-exec-1] Completed initialization in 5 ms (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:546) 
+2019-09-14 11:42:25,318 INFO  [main] Starting DemoApplication on LAPTOP-F0F3FEUE with PID 12072 (D:\IntelliJIDEA\work\demo\target\classes started by zz in D:\IntelliJIDEA\work\demo) (com.example.demo.DemoApplication:StartupInfoLogger.java:50) 
+2019-09-14 11:42:25,319 INFO  [main] No active profile set, falling back to default profiles: default (com.example.demo.DemoApplication:SpringApplication.java:647) 
+2019-09-14 11:42:25,662 INFO  [main] Bootstrapping Spring Data repositories in DEFAULT mode. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:126) 
+2019-09-14 11:42:25,672 INFO  [main] Finished Spring Data repository scanning in 4ms. Found 0 repository interfaces. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:182) 
+2019-09-14 11:42:25,846 INFO  [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bef5162b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) (org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:PostProcessorRegistrationDelegate.java:330) 
+2019-09-14 11:42:25,987 INFO  [main] Tomcat initialized with port(s): 8081 (http) (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:90) 
+2019-09-14 11:42:25,994 INFO  [main] Initializing ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-14 11:42:26,001 INFO  [main] Starting service [Tomcat] (org.apache.catalina.core.StandardService:DirectJDKLog.java:173) 
+2019-09-14 11:42:26,001 INFO  [main] Starting Servlet engine: [Apache Tomcat/9.0.22] (org.apache.catalina.core.StandardEngine:DirectJDKLog.java:173) 
+2019-09-14 11:42:26,073 INFO  [main] Initializing Spring embedded WebApplicationContext (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-14 11:42:26,074 INFO  [main] Root WebApplicationContext: initialization completed in 730 ms (org.springframework.web.context.ContextLoader:ServletWebServerApplicationContext.java:284) 
+2019-09-14 11:42:26,157 INFO  [main] HikariPool-1 - Starting... (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:110) 
+2019-09-14 11:42:26,259 INFO  [main] HikariPool-1 - Start completed. (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:123) 
+2019-09-14 11:42:26,323 INFO  [main] HHH000412: Hibernate Core {5.3.10.Final} (org.hibernate.Version:Version.java:46) 
+2019-09-14 11:42:26,324 INFO  [main] HHH000206: hibernate.properties not found (org.hibernate.cfg.Environment:Environment.java:213) 
+2019-09-14 11:42:26,398 INFO  [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final} (org.hibernate.annotations.common.Version:JavaReflectionManager.java:49) 
+2019-09-14 11:42:26,481 INFO  [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect (org.hibernate.dialect.Dialect:Dialect.java:157) 
+2019-09-14 11:42:26,588 INFO  [main] Initialized JPA EntityManagerFactory for persistence unit 'default' (org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:AbstractEntityManagerFactoryBean.java:415) 
+2019-09-14 11:42:26,804 INFO  [main] Initializing ExecutorService 'applicationTaskExecutor' (org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:ExecutorConfigurationSupport.java:171) 
+2019-09-14 11:42:26,935 INFO  [main] Starting ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-14 11:42:26,949 INFO  [main] Tomcat started on port(s): 8081 (http) with context path '/demo' (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:202) 
+2019-09-14 11:42:26,951 INFO  [main] Started DemoApplication in 1.907 seconds (JVM running for 2.735) (com.example.demo.DemoApplication:StartupInfoLogger.java:59) 
+2019-09-14 11:42:31,979 INFO  [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet' (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-14 11:42:31,979 INFO  [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet' (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:524) 
+2019-09-14 11:42:31,983 INFO  [http-nio-8081-exec-1] Completed initialization in 4 ms (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:546) 
+2019-09-14 11:50:59,977 INFO  [main] Starting DemoApplication on LAPTOP-F0F3FEUE with PID 2296 (D:\IntelliJIDEA\work\demo\target\classes started by zz in D:\IntelliJIDEA\work\demo) (com.example.demo.DemoApplication:StartupInfoLogger.java:50) 
+2019-09-14 11:50:59,978 INFO  [main] No active profile set, falling back to default profiles: default (com.example.demo.DemoApplication:SpringApplication.java:647) 
+2019-09-14 11:51:00,487 INFO  [main] Bootstrapping Spring Data repositories in DEFAULT mode. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:126) 
+2019-09-14 11:51:00,502 INFO  [main] Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces. (org.springframework.data.repository.config.RepositoryConfigurationDelegate:RepositoryConfigurationDelegate.java:182) 
+2019-09-14 11:51:00,778 INFO  [main] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3d856899] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) (org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker:PostProcessorRegistrationDelegate.java:330) 
+2019-09-14 11:51:01,014 INFO  [main] Tomcat initialized with port(s): 8081 (http) (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:90) 
+2019-09-14 11:51:01,027 INFO  [main] Initializing ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-14 11:51:01,035 INFO  [main] Starting service [Tomcat] (org.apache.catalina.core.StandardService:DirectJDKLog.java:173) 
+2019-09-14 11:51:01,036 INFO  [main] Starting Servlet engine: [Apache Tomcat/9.0.22] (org.apache.catalina.core.StandardEngine:DirectJDKLog.java:173) 
+2019-09-14 11:51:01,148 INFO  [main] Initializing Spring embedded WebApplicationContext (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-14 11:51:01,148 INFO  [main] Root WebApplicationContext: initialization completed in 1138 ms (org.springframework.web.context.ContextLoader:ServletWebServerApplicationContext.java:284) 
+2019-09-14 11:51:01,283 INFO  [main] HikariPool-1 - Starting... (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:110) 
+2019-09-14 11:51:01,443 INFO  [main] HikariPool-1 - Start completed. (com.zaxxer.hikari.HikariDataSource:HikariDataSource.java:123) 
+2019-09-14 11:51:01,546 INFO  [main] HHH000412: Hibernate Core {5.3.10.Final} (org.hibernate.Version:Version.java:46) 
+2019-09-14 11:51:01,548 INFO  [main] HHH000206: hibernate.properties not found (org.hibernate.cfg.Environment:Environment.java:213) 
+2019-09-14 11:51:01,670 INFO  [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final} (org.hibernate.annotations.common.Version:JavaReflectionManager.java:49) 
+2019-09-14 11:51:01,809 INFO  [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect (org.hibernate.dialect.Dialect:Dialect.java:157) 
+2019-09-14 11:51:01,978 INFO  [main] Initialized JPA EntityManagerFactory for persistence unit 'default' (org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:AbstractEntityManagerFactoryBean.java:415) 
+2019-09-14 11:51:02,317 INFO  [main] Initializing ExecutorService 'applicationTaskExecutor' (org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:ExecutorConfigurationSupport.java:171) 
+2019-09-14 11:51:02,526 INFO  [main] Starting ProtocolHandler ["http-nio-8081"] (org.apache.coyote.http11.Http11NioProtocol:DirectJDKLog.java:173) 
+2019-09-14 11:51:02,547 INFO  [main] Tomcat started on port(s): 8081 (http) with context path '/demo' (org.springframework.boot.web.embedded.tomcat.TomcatWebServer:TomcatWebServer.java:202) 
+2019-09-14 11:51:02,550 INFO  [main] Started DemoApplication in 2.969 seconds (JVM running for 4.286) (com.example.demo.DemoApplication:StartupInfoLogger.java:59) 
+2019-09-14 11:51:07,519 INFO  [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet' (org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/demo]:DirectJDKLog.java:173) 
+2019-09-14 11:51:07,519 INFO  [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet' (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:524) 
+2019-09-14 11:51:07,525 INFO  [http-nio-8081-exec-1] Completed initialization in 6 ms (org.springframework.web.servlet.DispatcherServlet:FrameworkServlet.java:546) 
